@@ -1,0 +1,14 @@
+name: quest_tracker
+version: 0.0.0
+description: An app to track our epic adventures!
+author: kyle Ferguson <kyle.ferguson@workiva.com>
+
+dependencies:
+  over_react: "^1.22.0"
+  w_flux: ^2.9.4
+  w_common: ^1.8.2
+  dart_to_js_script_rewriter: ^1.0.0
+
+transformers:
+- over_react
+- dart_to_js_script_rewriter
