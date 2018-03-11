@@ -7,12 +7,24 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.30.0+4"
+  ansicolor:
+    description:
+      name: ansicolor
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.0.9"
+  archive:
+    description:
+      name: archive
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.33"
   args:
     description:
       name: args
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.4.1"
+    version: "0.13.7"
   async:
     description:
       name: async
@@ -31,6 +43,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.3"
+  bot:
+    description:
+      name: bot
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.28.0"
   browser:
     description:
       name: browser
@@ -79,6 +97,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.14.6"
+  completion:
+    description:
+      name: completion
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.6"
   convert:
     description:
       name: convert
@@ -97,6 +121,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.14.1"
+  dart_dev:
+    description:
+      name: dart_dev
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.9.1"
   dart_style:
     description:
       name: dart_style
@@ -115,6 +145,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.10.7"
+  fluri:
+    description:
+      name: fluri
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.2.3"
   front_end:
     description:
       name: front_end
@@ -235,6 +271,12 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.5.1"
+  petitparser:
+    description:
+      name: petitparser
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.7.5"
   platform_detect:
     description:
       name: platform_detect
@@ -271,6 +313,18 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.7.0"
+  resource:
+    description:
+      name: resource
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.1.2"
+  rxdart:
+    description:
+      name: rxdart
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.15.1"
   shelf:
     description:
       name: shelf
@@ -361,12 +415,24 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.1.5"
+  unittest:
+    description:
+      name: unittest
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.11.7"
   utf:
     description:
       name: utf
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.9.0+3"
+  uuid:
+    description:
+      name: uuid
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.5.3"
   w_common:
     description:
       name: w_common
@@ -391,6 +457,18 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.6"
+  webdriver:
+    description:
+      name: webdriver
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.2.3"
+  xml:
+    description:
+      name: xml
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.6.0"
   yaml:
     description:
       name: yaml

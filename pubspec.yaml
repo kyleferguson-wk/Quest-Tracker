@@ -4,10 +4,14 @@ description: An app to track our epic adventures!
 author: kyle Ferguson <kyle.ferguson@workiva.com>
 
 dependencies:
-  over_react: "^1.22.0"
+  over_react: ^1.22.0
   w_flux: ^2.9.4
   w_common: ^1.8.2
   dart_to_js_script_rewriter: ^1.0.0
+
+dev_dependencies:
+  dart_dev: ^1.9.1
+  dart_style: ^1.0.7
 
 transformers:
 - over_react
