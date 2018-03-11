@@ -1,9 +1,9 @@
 class Quest {
-String title;
-String description;
-bool isActive;
+  String title;
+  String description;
+  bool isActive;
 
-Quest(this.title,{this.description='',this.isActive=false});
+  Quest(this.title, {this.description = '', this.isActive = false});
 
   @override
   bool operator ==(Quest other) {
@@ -14,5 +14,4 @@ Quest(this.title,{this.description='',this.isActive=false});
   String toString() {
     return '$title: $description';
   }
-
 }
